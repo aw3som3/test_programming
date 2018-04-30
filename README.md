@@ -16,15 +16,15 @@
    
    berdasarkan data diatas tampilkan pohon keluarga sebagai berikut
    
-	-ahmad
-	--wisnu
-	---danu
-	----jona
-	---dani
-	--asna
-	---kali
-	---kalo
-	----joni
+	<br/>-ahmad
+	<br/>--wisnu
+	<br/>---danu
+	<br/>----jona
+	<br/>---dani
+	<br/>--asna
+	<br/>---kali
+	<br/>---kalo
+	<br/>----joni
 				
 2. sorting
 	[1,3,4,2,3,6,7,4,3,2,5,8,9]
